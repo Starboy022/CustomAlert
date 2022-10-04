@@ -1,0 +1,126 @@
+body{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 3px solid black;
+    width: 80%;
+}
+form{
+    margin-top: 5%;
+    background: rgba(231, 230, 230, 0.284);
+    opacity: 1;
+    width: 50%;
+    height: 350px;
+    padding-top: 2%;
+    padding-left: 1%;
+}
+button{
+    margin-top: 3%;
+    width: 80%;
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.html{
+    height: 200px;
+    height: 100%;
+}
+.alert.success {
+    padding: 20px;
+    background-color: #04AA6D;
+    color: black;
+    width: 45%;
+    height: 22px;
+    float: right;
+    margin-top: -25%;
+}
+h5{
+    margin-top: 0.8%;
+}
+  
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
+.alert.warning {
+    padding: 20px;
+    background-color: #FF9800;
+    color: black;
+    width: 45%;
+    height: 22px;
+    float: right;
+    margin-top: -18%;
+}  
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
+.alert.info {
+    padding: 20px;
+    background-color: #2196F3;
+    color: black;
+    width: 45%;
+    height: 22px;
+    float: right;
+    margin-top: -11%;
+}  
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
+.alert {
+    padding: 20px;
+    background-color: #F44336;
+    color: black;
+    width: 45%;
+    height: 22px;
+    float: right;
+    margin-top: -4%;
+}  
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
